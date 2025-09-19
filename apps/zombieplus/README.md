@@ -4,7 +4,7 @@
 > /c/QAx/apps/zombieplus/api
 
 bash```
-./db.ssh```
+./db.sh```
 
 bash```
 npm run dev```
